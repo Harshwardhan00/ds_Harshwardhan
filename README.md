@@ -16,23 +16,24 @@ We analyze trading behavior under emotional states (Fear & Greed) and build pred
 
 
 # Key Insights
-    * ~90% of trades occur during Fear or Greed phases.
-    * Extreme Greed → high risk, high reward (few big winners, many losers).
-    * Fear → contrarians profit, but high volatility.
-    * Neutral & Extreme Fear → low opportunity zones.
-    * Sentiment lags PnL → useful for confirmation, not trade triggers.
+* ~90% of trades occur during Fear or Greed phases.
+* Extreme Greed → high risk, high reward (few big winners, many losers).
+* Fear → contrarians profit, but high volatility.
+* Neutral & Extreme Fear → low opportunity zones.
+* Sentiment lags PnL → useful for confirmation, not trade triggers.
 
 # Tools & Stack
-    *Google Colab 
-    *Python, Pandas, NumPy for processing
-    *Matplotlib/Seaborn for visualization
-    *Scikit-learn for ML pipelines (Logistic Regression, Random Forests)
+* Google Colab 
+* Python, Pandas, NumPy for processing
+* Matplotlib/Seaborn for visualization
+* Scikit-learn for ML pipelines (Logistic Regression, Random Forests)
 
 # Visuals & KPIs
-    *Trade volume by sentiment
-    *Average PnL under Fear vs Greed
-    *Rolling 7-day PnL vs Sentiment correlation
-    *Feature importance ranking (predictive model)
+    
+* Trade volume by sentiment
+* Average PnL under Fear vs Greed
+* Rolling 7-day PnL vs Sentiment correlation
+* Feature importance ranking (predictive model)
 
 
 # Run on Google Colab
@@ -47,4 +48,4 @@ Click below to open the notebook directly in Colab:
 
 
 # Author: Harshwardhan
-# Contact: Harshwardhan7605@gmail.com | Choubeyharsh562@gmail.com | 9267909675
+Contact: Harshwardhan7605@gmail.com | Choubeyharsh562@gmail.com | 9267909675
